@@ -7,14 +7,6 @@ Previously Core Engineer & Vice President of Technology, Mobile Development of [
 ### Dr. Joshua Peng
 Ph.D. in Structural Engineering and Computing, University of Missouri. He has participated in NSF projects No. 1100877 and No. 1100146, is a member of ASCE and ACI, and is an assistant researcher/professor at the University of Missouri. He has been working on blockchain development and research since 2017. He was previously co-partner of Labs Group and Homebloc.Inc and the senior engineer of Gilsanz Murray Steficek LLP, involved in the technical exploration and business logic development of the IBM Hyperledger Fabric blockchain consortium. He is now in charge of strategic design and architecture at zkPass.
 
-Publications:
-
-[Effects of In-plane Restraint on Progression of Collapse in Flat Plate Structures.](https://ascelibrary.org/doi/abs/10.1061/(ASCE)CF.1943-5509.0000984)
-
-[POST-PUNCHING CAPACITY OF FLAT PLATE FLOOR SYSTEMS.](https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/51689096)
-
-[Experimental Dynamic Response of Reinforced Concrete Flat Plate Sub Structure Under Collapse Scenario.](https://ascelibrary.org/doi/abs/10.1061/9780784479117.093)
-
 ### Annie Muser Z 
 Previously worked at PWC(PricewaterhouseCoopers), Citi Global Markets Asia, Mason Stevens, etc. Responsible for asset allocation, portfolio construction, client relationships, and monitoring of market themes and performances. She specializes in macro and credit research on financial markets, maintaining institutional and investment client relationships. At zkPass, she is responsible for macro market analysis, tokenomic design, financing, and business relationship maintenance.
 ## Advisory Board Member
