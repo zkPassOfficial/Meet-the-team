@@ -23,7 +23,7 @@ Google Scholar:
 https://scholar.google.com.au/citations?user=x9IUq78AAAAJ&hl=en](https://scholar.google.com.au/citations?user=x9IUq78AAAAJ&hl=en
 
 ## Core Contributors
-Zhu DiWen, Ph.D at Nanyang Technological University. Research on efficient query processing on large graphs, including point-to-point shortest path and distance queries, single-source shortest path and distance queries, and reachability queries. Previously at Microsoft Research Asia and focus on implementing the mapreduce interface of a graph specialised system. He is a crypto enthusiast and has deep knowledge of cryptography, zk techniques, etc.
+Rone, received his Ph.D from Nanyang Technological University. His industrial experience includes distributed computing, cloud-native systems and AI infrastructures. He is an open source enthusiast and contributed one of his co-founded projects to the CNCF community. He is also a crypto enthusiast and has deep knowledge of cryptography, zk techniques, etc.
 
 Ning Ren, Previously a Software Engineer at Pony.ai, Fremont, California, United States. He worked at Google as a Software Engineer for 6 years. He has deep research on machine learning, Natural Language Processing, Language Understanding, Artificial Intelligence, Cryptographic Algorithms, etc.
 
