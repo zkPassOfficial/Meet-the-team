@@ -10,7 +10,7 @@ Ph.D. in Structural Engineering and Computing, University of Missouri. He has pa
 ### Annie Muser 
 Previously worked at PWC(PricewaterhouseCoopers), Citi Global Markets Asia, Mason Stevens, etc. Responsible for asset allocation, portfolio construction, client relationships, and monitoring of market themes and performances. She specializes in macro and credit research on financial markets, maintaining institutional and investment client relationships. At zkPass, she is responsible for macro market analysis, tokenomic design, financing, and business relationship maintenance.
 
-### Ethan
+### Ethan Miu
 Previously worked for CSII as a core technical engineer and project director, responsible for the construction of financial software systems. He graduated from Nankai University majoring in computer science. From 2017 onwards, he has been engaged in blockchain financial software development and management, leading the development of various blockchain systems based on Hyperledger Fabric, including supply chain finance, bidding platform, financial and taxation trading platform, etc.
 
 ## Advisory Board Member
