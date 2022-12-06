@@ -22,9 +22,4 @@ https://www.amazon.com.au/Architecture-Blockchain-Applications-Xiwei-Xu/dp/30300
 Google Scholar:
 https://scholar.google.com.au/citations?user=x9IUq78AAAAJ&hl=en](https://scholar.google.com.au/citations?user=x9IUq78AAAAJ&hl=en
 
-## Core Contributors
-Rone, received his Ph.D from Nanyang Technological University. His industrial experience includes distributed computing, cloud-native systems and AI infrastructures. He is an open source enthusiast and contributed one of his co-founded projects to the CNCF community. He is also a crypto enthusiast and has deep knowledge of cryptography, zk techniques, etc.
-
-Ning Ren, Previously a Software Engineer at Pony.ai, Fremont, California, United States. He worked at Google as a Software Engineer for 6 years. He has deep research on machine learning, Natural Language Processing, Language Understanding, Artificial Intelligence, Cryptographic Algorithms, etc.
-
 **Want to be a contributor to the development of zkPass protocol? Please join [zkPass Discord](https://discord.gg/zkpass) and DM the team.**
